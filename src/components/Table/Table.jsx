@@ -14,10 +14,10 @@ function createData(name, trackingId, date, status) {
 }
 
 const rows = [
-    createData("Lasania Chiken Fri", 18908424, "2 March 2022", "Approved"),
-    createData("Big Baza Bang ", 18908424, "2 March 2022", "Pending"),
-    createData("Mouth Freshner", 18908424, "2 March 2022", "Approved"),
-    createData("Cupcake", 18908421, "2 March 2022", "Delivered"),
+    createData("Lenovo IdeaPad 330", 18908424, "25 January 2024", "Delivered"),
+    createData("iPhone 15Pro", 18908424, "26 January 2024", "Approved"),
+    createData("MI Power Bank", 18908424, "27 January 2024", "Pending"),
+    createData("OnePlus Earphones", 18908421, "28 January 2024", "Pending"),
 ];
 
 const makeStyles=(status)=>{
